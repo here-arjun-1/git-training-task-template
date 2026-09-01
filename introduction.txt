@@ -1,5 +1,7 @@
 Hello Sir/Mam,
-My name is Arjun Vyas.
-I am 2nd year student in CSE branch.
-I am Developer.
-My hobbies are watching web series and learning new things.
+I am Arjun Vyas.
+
+My Skill are - HTML, CSS, BASIC JS, and Java
+I have learnt some DSA.
+
+My hobbies are - CRICKET, WATCHING MOVIES and LEARNING NEW THINGS.
